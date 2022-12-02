@@ -87,7 +87,7 @@ class ProductProvider extends Component {
       }
 
       clearCart = () =>{
-
+        console.log('cleared')
       }
 
     render() {
